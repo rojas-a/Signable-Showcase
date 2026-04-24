@@ -14,7 +14,7 @@ The app has been piloted in a classroom setting and is actively being developed 
 
 ## My Role
 
-**Co-Founder & Full Stack Developer** — Team of 5 (4 engineers, 1 designer)
+**Full Stack Developer** — Team of 5 (4 engineers, 1 designer)
 
 I was responsible for the core technical architecture of the application, including:
 
