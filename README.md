@@ -29,24 +29,24 @@ I was responsible for the core technical architecture of the application, includ
 
 ## Features
 
-### ✋ Sign Recognition (ML-Powered)
+### Sign Recognition (ML-Powered)
 Practice ASL letters and get real-time feedback through your camera. A custom-trained Random Forest model analyzes hand landmarks and tells you whether your sign is correct.
 
 - Custom dataset, trained from scratch
 - Recognizes the full ASL alphabet (static signs)
 - Instant in-browser inference — no server round trip
 
-### 📖 ASL-Lex Dictionary
+### ASL-Lex Dictionary
 Look up any word and see how it's signed — powered by the ASL-Lex API, a database built by ASL researchers at the University of Rochester.
 
 - Video demonstrations by professional ASL signers
 - Related signs and variants surfaced automatically
 - Searchable from anywhere in the app
 
-### 🃏 Flashcards & Quiz Mode
+### Flashcards & Quiz Mode
 Reinforce learning through spaced repetition-style flashcard decks and quiz modes covering the ASL alphabet and vocabulary.
 
-### 👤 User Accounts & Progress Tracking
+### User Accounts & Progress Tracking
 Firebase Authentication keeps users signed in across sessions. Firestore persists study notes and individual progress metrics so learners can pick up where they left off.
 
 ---
